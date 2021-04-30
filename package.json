@@ -24,7 +24,7 @@
     "morgan": "^1.6.0"
   },
   "devDependencies": {
-    "browser-sync": "^2.26.3",
+    "browser-sync": "^2.9.11",
     "chai": "^3.0.0",
     "chai-as-promised": "^5.1.0",
     "chalk": "^1.0.1",
